@@ -7,8 +7,8 @@
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Matěj Jaroš",
+  "license": "",
   "dependencies": {
     "express": "^4.17.1",
     "moment": "^2.24.0",
